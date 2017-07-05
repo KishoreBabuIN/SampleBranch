@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleBranch</string>
+    <string name="share_deeplink">Share Deeplink</string>
+</resources>
